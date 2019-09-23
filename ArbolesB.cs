@@ -1,4 +1,8 @@
-﻿// BTrees in C#
+/********************
+**** Daniela Vignau | Ricardo Sandoval ******
+****    A01021689   |  A01129460             ******
+********************/
+// BTrees in C#
 
 using System;
 using System.Collections.Generic;
