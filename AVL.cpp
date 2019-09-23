@@ -1,3 +1,7 @@
+/********************
+**** Daniela Vignau | Ricardo Sandoval ******
+****    A01021689   |  A01129460             ******
+********************/
 #include <algorithm>
 #include <iostream>
 
@@ -383,7 +387,7 @@ int main(void)
     //Borrar Elemento;
     cout<<"\n\nBorrar elemento del arbol";
     t.deleteKey(5);
-    //Calcular altura árbol
+    //Calcular altura Ã¡rbol
     altura = t.calculaAltura();
     cout<<"\n\nAltura del arbol: "<< altura;
     //Busqueda de un nodo;
