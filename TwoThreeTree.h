@@ -1,3 +1,8 @@
+/********************
+**** Daniela Vignau | Ricardo Sandoval ******
+****    A01021689   |  A01129460             ******
+********************/
+
 #include "TwoThreeNode.h"
 #include <iomanip>
 #include <queue>
